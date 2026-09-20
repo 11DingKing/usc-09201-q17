@@ -1,0 +1,8 @@
+[project]
+name = "usc_09201_17"
+version = "0.1.0"
+description = "林业项目组合驾驶舱服务基础"
+requires-python = ">=3.11"
+
+[tool.unittest]
+start-directory = "tests"
