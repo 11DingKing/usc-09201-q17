@@ -12,3 +12,5 @@ __pycache__/
 *.db-wal
 *.db-shm
 .DS_Store
+data/
+*.tmp
